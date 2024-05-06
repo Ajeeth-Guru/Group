@@ -14,13 +14,8 @@ import Login from './components/Login';
 import Projecthome from './groupproject/Projecthome';
 import Projectnav from './groupproject/Projectnav';
 import Projectabout from './groupproject/Projectabout';
-import Projectservice from './groupproject/Projectservice';
 import ProjectDoner from './groupproject/ProjectDoner';
 import Projectwant from './groupproject/Projectwant';
-import BloodBank from './groupproject/BloodBank';
-import BloodBankDetails from './groupproject/BloodBankDetails';
-import UserDetail from './groupproject/UserDetail';
-import BloodUpdate from './groupproject/BloodUpdate';
 import Admin from './groupproject/Admin';
 
 
@@ -32,11 +27,8 @@ function App() {
     <Route path='/' element={<Projecthome/>}/>
     <Route path='/admin'element={<Admin/>}/>
     <Route path='/Projectabout' element={<Projectabout/>}/>
-    <Route path='/Projectservice' element={<Projectservice/>}/>
     <Route path='/ProjectDoner' element={<ProjectDoner/>}/>
     <Route path='/Projectwant' element={<Projectwant/>}/>
-    <Route path='/bloodbank' element={<BloodBank/>}/>
-    <Route path='/doner' element={<UserDetail/>}/>
       {/* <Route path='update' element={<BloodUpdate/>}/> */}
     
 
