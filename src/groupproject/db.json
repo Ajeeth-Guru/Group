@@ -1,0 +1,68 @@
+{
+  "user": [
+    {
+      "id": "123",
+      "name": "Ajeeth",
+      "email": "Ajeeth@gmail.com",
+      "mobile": "9789347275",
+      "blood": "A+",
+      "age": "25",
+      "gender": "male",
+      "district": "Tiruppur",
+      "city": "Avinashi"
+    },
+    {
+      "id": "03a0",
+      "name": "Divya karthi",
+      "email": "karthi@gmail.com",
+      "mobile": "9876543210",
+      "blood": "A+",
+      "age": "21",
+      "gender": "male",
+      "district": "Coimbatore",
+      "city": "Annur"
+    },
+    {
+      "id": "e85f",
+      "name": "Tharun S",
+      "email": "tharun@gmail.com",
+      "mobile": "9876543210",
+      "blood": "O+",
+      "age": "24",
+      "gender": "male",
+      "district": "Erode",
+      "city": "Gobi"
+    },
+    {
+      "id": "1f94",
+      "name": "Srimathi",
+      "email": "sri@gmail.com",
+      "mobile": "8978965412",
+      "blood": "B+",
+      "age": "21",
+      "gender": "Female",
+      "district": "Coimbatore",
+      "city": "Annur"
+    },
+    {
+      "id": "4350",
+      "name": "sajithra ",
+      "email": "saji@gmail.com",
+      "mobile": "1234567890",
+      "blood": "AB+",
+      "age": "23",
+      "gender": "female",
+      "district": "namakkal",
+      "city": "rasipuram"
+    }
+  ],
+  "admin": [
+    {
+      "id": "e85f",
+      "name": "Tharun S",
+      "email": "tharun@gmail.com",
+      "mobile": "9876543210",
+      "password": "Abc@12345"
+    }
+  ]
+}

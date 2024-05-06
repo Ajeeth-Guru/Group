@@ -1,0 +1,12 @@
+.NavBar{
+  background-color: rgb(224, 176, 176);
+  height: 30px;
+  border-radius: 10px;
+}
+a{
+  text-decoration: none;
+  color:white
+}
+img{
+  margin-top: 1px;
+}

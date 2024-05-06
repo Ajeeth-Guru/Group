@@ -1,0 +1,43 @@
+.NavBar{
+    background-color:pink;
+    height: 60px;
+    color:white;
+    padding-top:10px;
+  }
+  /* a{
+    color:black;
+    text-decoration: none;
+    margin:20px;
+  }
+  a.active{
+    background-color: rgb(233, 61, 70);
+    font-weight: 800;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+    border: 3px solid black; */
+  /* } */
+  .Abouthead{
+    /* background-color: rgb(173, 87, 169); */
+    height:50px;
+    margin-top: 10px;
+  }
+  *{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#donate::after{
+    content: 'HAPPY FOR BLOOD DONATE';
+    color: rgb(27, 132, 180);
+}
+#head::after{
+    content: 'SAVIOR';
+    color: rgb(27, 132, 180);
+
+}
+#card{
+    box-shadow: 5px 5px 15px  rgb(88, 90, 92);
+}
+#card img:hover{
+    height: 280px;
+    
+}
